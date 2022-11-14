@@ -1,0 +1,13 @@
+.main {
+    background: rgba(3, 3, 9, 0.878);
+}
+
+.titulo {
+    color: aliceblue;
+}
+
+#mensaje {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    border-radius: 1em;
+}
